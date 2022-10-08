@@ -1,7 +1,13 @@
 # NodeJS API
 ## To run Application
-### npm i
+```shell
+npm i
+```
 ### and
-### npm start
-## To un unit test
-### npm test
+``` shell
+npm start
+```
+## To unit test
+``` shell
+npm test
+```
